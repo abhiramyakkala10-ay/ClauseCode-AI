@@ -1,0 +1,9 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:20128",
+    "ANTHROPIC_AUTH_TOKEN": "omniroute",
+    "ANTHROPIC_MODEL": "gh/gpt-4o-2024-11-20",
+    "ANTHROPIC_SMALL_FAST_MODEL": "gh/gpt-4o-2024-11-20",
+    "ANTHROPIC_SUBAGENT_MODEL": "gh/gpt-4o-2024-11-20"
+  }
+}
